@@ -1,0 +1,2 @@
+Table: DT_WeaponTripMine, Prop: m_iGroundIndex, Offset: 0x1CB8
+Table: DT_WeaponTripMine, Prop: m_iPickedUpIndex, Offset: 0x1CBC

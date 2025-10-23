@@ -1,0 +1,5 @@
+Table: DT_WeaponRPG, Prop: m_bInitialStateUpdate, Offset: 0x1D00
+Table: DT_WeaponRPG, Prop: m_bGuiding, Offset: 0x1D01
+Table: DT_WeaponRPG, Prop: m_bHideGuiding, Offset: 0x1D02
+Table: DT_WeaponRPG, Prop: m_hMissile, Offset: 0x1D04
+Table: DT_WeaponRPG, Prop: m_vecLaserDot, Offset: 0x1D08

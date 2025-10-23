@@ -1,0 +1,2 @@
+Table: DT_WeaponHandGrenade, Prop: m_flStartThrow, Offset: 0x1CB8
+Table: DT_WeaponHandGrenade, Prop: m_flReleaseThrow, Offset: 0x1CBC

@@ -1,0 +1,2 @@
+Table: DT_WeaponHgun, Prop: m_flRechargeTime, Offset: 0x1CB8
+Table: DT_WeaponHgun, Prop: m_iFirePhase, Offset: 0x1CBC

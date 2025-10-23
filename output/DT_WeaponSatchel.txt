@@ -1,0 +1,5 @@
+Table: DT_WeaponSatchel, Prop: m_iRadioViewIndex, Offset: 0x1CB8
+Table: DT_WeaponSatchel, Prop: m_iRadioWorldIndex, Offset: 0x1CBC
+Table: DT_WeaponSatchel, Prop: m_iSatchelViewIndex, Offset: 0x1CC0
+Table: DT_WeaponSatchel, Prop: m_iSatchelWorldIndex, Offset: 0x1CC4
+Table: DT_WeaponSatchel, Prop: m_iChargeReady, Offset: 0x1CC8

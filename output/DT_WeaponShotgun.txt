@@ -1,0 +1,4 @@
+Table: DT_WeaponShotgun, Prop: m_bNeedPump, Offset: 0x1CE8
+Table: DT_WeaponShotgun, Prop: m_bDelayedFire1, Offset: 0x1CE9
+Table: DT_WeaponShotgun, Prop: m_bDelayedFire2, Offset: 0x1CEA
+Table: DT_WeaponShotgun, Prop: m_bDelayedReload, Offset: 0x1CEB

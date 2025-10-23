@@ -1,0 +1,9 @@
+Table: DT_WeaponPhysCannon, Prop: m_bActive, Offset: 0x2068
+Table: DT_WeaponPhysCannon, Prop: m_hAttachedObject, Offset: 0x1D00
+Table: DT_WeaponPhysCannon, Prop: m_attachedPositionObjectSpace, Offset: 0x1CF4
+Table: DT_WeaponPhysCannon, Prop: m_attachedAnglesPlayerSpace[0], Offset: 0x1CE8
+Table: DT_WeaponPhysCannon, Prop: m_attachedAnglesPlayerSpace[1], Offset: 0x1CEC
+Table: DT_WeaponPhysCannon, Prop: m_attachedAnglesPlayerSpace[2], Offset: 0x1CF0
+Table: DT_WeaponPhysCannon, Prop: m_EffectState, Offset: 0x206C
+Table: DT_WeaponPhysCannon, Prop: m_bOpen, Offset: 0x2070
+Table: DT_WeaponPhysCannon, Prop: m_bPhyscannonState, Offset: 0x2071

@@ -1,0 +1,2 @@
+Table: DT_WeaponCrossbow, Prop: m_bInZoom, Offset: 0x1CEC
+Table: DT_WeaponCrossbow, Prop: m_bMustReload, Offset: 0x1CED

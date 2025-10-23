@@ -1,0 +1,6 @@
+Table: DT_WeaponGauss, Prop: m_nAttackState, Offset: 0x1CB8
+Table: DT_WeaponGauss, Prop: m_bPrimaryFire, Offset: 0x1CBC
+Table: DT_WeaponGauss, Prop: m_flStartCharge, Offset: 0x1CC0
+Table: DT_WeaponGauss, Prop: m_flAmmoStartCharge, Offset: 0x1CC4
+Table: DT_WeaponGauss, Prop: m_flPlayAftershock, Offset: 0x1CC8
+Table: DT_WeaponGauss, Prop: m_flNextAmmoBurn, Offset: 0x1CCC

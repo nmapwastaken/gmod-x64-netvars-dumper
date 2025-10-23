@@ -1,0 +1,3 @@
+Table: DT_WeaponRPG_HL1, Prop: m_bIntialStateUpdate, Offset: 0x1CB9
+Table: DT_WeaponRPG_HL1, Prop: m_bGuiding, Offset: 0x1CB8
+Table: DT_WeaponRPG_HL1, Prop: m_bLaserDotSuspended, Offset: 0x1CBA

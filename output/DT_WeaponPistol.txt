@@ -1,0 +1,4 @@
+Table: DT_WeaponPistol, Prop: m_flSoonestPrimaryAttack, Offset: 0x1CF0
+Table: DT_WeaponPistol, Prop: m_flLastAttackTime, Offset: 0x1CF4
+Table: DT_WeaponPistol, Prop: m_flAccuracyPenalty, Offset: 0x1CF8
+Table: DT_WeaponPistol, Prop: m_nNumShotsFired, Offset: 0x1CFC

@@ -1,0 +1,3 @@
+Table: DT_WeaponPhysGun, Prop: m_hPhysBeam, Offset: 0x1CEC
+Table: DT_WeaponPhysGun, Prop: m_vHitPosLocal, Offset: 0x1CF0
+Table: DT_WeaponPhysGun, Prop: m_hGrabbedEntity, Offset: 0x1CE8

@@ -1,0 +1,3 @@
+Table: DT_WeaponFrag, Prop: m_bRedraw, Offset: 0x1CE8
+Table: DT_WeaponFrag, Prop: m_fDrawbackFinished, Offset: 0x1CF0
+Table: DT_WeaponFrag, Prop: m_AttackPaused, Offset: 0x1CEC

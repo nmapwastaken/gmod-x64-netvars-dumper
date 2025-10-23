@@ -1,0 +1,10 @@
+Table: DT_World, Prop: m_flWaveHeight, Offset: 0x16C0
+Table: DT_World, Prop: m_WorldMins, Offset: 0x16C4
+Table: DT_World, Prop: m_WorldMaxs, Offset: 0x16D0
+Table: DT_World, Prop: m_bStartDark, Offset: 0x16DC
+Table: DT_World, Prop: m_flMaxOccludeeArea, Offset: 0x16E0
+Table: DT_World, Prop: m_flMinOccluderArea, Offset: 0x16E4
+Table: DT_World, Prop: m_flMaxPropScreenSpaceWidth, Offset: 0x16EC
+Table: DT_World, Prop: m_flMinPropScreenSpaceWidth, Offset: 0x16E8
+Table: DT_World, Prop: m_iszDetailSpriteMaterial, Offset: 0x16F1
+Table: DT_World, Prop: m_bColdWorld, Offset: 0x16F0

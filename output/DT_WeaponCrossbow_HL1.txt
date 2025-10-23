@@ -1,0 +1,1 @@
+Table: DT_WeaponCrossbow_HL1, Prop: m_fInZoom, Offset: 0x1CB8
