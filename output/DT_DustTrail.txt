@@ -1,0 +1,13 @@
+Table: DT_DustTrail, Prop: m_SpawnRate, Offset: 0x17F8
+Table: DT_DustTrail, Prop: m_Color, Offset: 0x17FC
+Table: DT_DustTrail, Prop: m_ParticleLifetime, Offset: 0x180C
+Table: DT_DustTrail, Prop: m_StopEmitTime, Offset: 0x1814
+Table: DT_DustTrail, Prop: m_MinSpeed, Offset: 0x1818
+Table: DT_DustTrail, Prop: m_MaxSpeed, Offset: 0x181C
+Table: DT_DustTrail, Prop: m_MinDirectedSpeed, Offset: 0x1820
+Table: DT_DustTrail, Prop: m_MaxDirectedSpeed, Offset: 0x1824
+Table: DT_DustTrail, Prop: m_StartSize, Offset: 0x1828
+Table: DT_DustTrail, Prop: m_EndSize, Offset: 0x182C
+Table: DT_DustTrail, Prop: m_SpawnRadius, Offset: 0x1830
+Table: DT_DustTrail, Prop: m_bEmit, Offset: 0x1840
+Table: DT_DustTrail, Prop: m_Opacity, Offset: 0x1808

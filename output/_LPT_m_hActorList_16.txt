@@ -1,0 +1,1 @@
+Table: _LPT_m_hActorList_16, Prop: m_hActorList.lengthproxy.lengthprop16, Offset: 0x0

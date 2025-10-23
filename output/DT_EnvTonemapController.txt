@@ -1,0 +1,7 @@
+Table: DT_EnvTonemapController, Prop: m_bUseCustomAutoExposureMin, Offset: 0x16C0
+Table: DT_EnvTonemapController, Prop: m_bUseCustomAutoExposureMax, Offset: 0x16C1
+Table: DT_EnvTonemapController, Prop: m_bUseCustomBloomScale, Offset: 0x16C2
+Table: DT_EnvTonemapController, Prop: m_flCustomAutoExposureMin, Offset: 0x16C4
+Table: DT_EnvTonemapController, Prop: m_flCustomAutoExposureMax, Offset: 0x16C8
+Table: DT_EnvTonemapController, Prop: m_flCustomBloomScale, Offset: 0x16CC
+Table: DT_EnvTonemapController, Prop: m_flCustomBloomScaleMinimum, Offset: 0x16D0

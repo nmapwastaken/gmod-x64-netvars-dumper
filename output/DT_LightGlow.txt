@@ -1,0 +1,12 @@
+Table: DT_LightGlow, Prop: m_clrRender, Offset: 0x88
+Table: DT_LightGlow, Prop: m_nHorizontalSize, Offset: 0x16C0
+Table: DT_LightGlow, Prop: m_nVerticalSize, Offset: 0x16C4
+Table: DT_LightGlow, Prop: m_nMinDist, Offset: 0x16C8
+Table: DT_LightGlow, Prop: m_nMaxDist, Offset: 0x16CC
+Table: DT_LightGlow, Prop: m_nOuterMaxDist, Offset: 0x16D0
+Table: DT_LightGlow, Prop: m_spawnflags, Offset: 0x16D4
+Table: DT_LightGlow, Prop: m_vecOrigin, Offset: 0x428
+Table: DT_LightGlow, Prop: m_angRotation, Offset: 0x434
+Table: DT_LightGlow, Prop: moveparent, Offset: 0x20C
+Table: DT_LightGlow, Prop: m_flGlowProxySize, Offset: 0x17D0
+Table: DT_LightGlow, Prop: HDRColorScale, Offset: 0x0

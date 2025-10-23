@@ -1,0 +1,5 @@
+Table: DT_Flare, Prop: m_flTimeBurnOut, Offset: 0x2AA0
+Table: DT_Flare, Prop: m_flScale, Offset: 0x2AA4
+Table: DT_Flare, Prop: m_bLight, Offset: 0x2AA8
+Table: DT_Flare, Prop: m_bSmoke, Offset: 0x2AA9
+Table: DT_Flare, Prop: m_bPropFlare, Offset: 0x2AAA

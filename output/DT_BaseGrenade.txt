@@ -1,0 +1,12 @@
+Table: DT_BaseGrenade, Prop: m_flDamage, Offset: 0x1C0C
+Table: DT_BaseGrenade, Prop: m_DmgRadius, Offset: 0x1BFC
+Table: DT_BaseGrenade, Prop: m_bIsLive, Offset: 0x1BF9
+Table: DT_BaseGrenade, Prop: m_hThrower, Offset: 0x1C1C
+Table: DT_BaseGrenade, Prop: m_vecVelocity, Offset: 0x148
+Table: DT_BaseGrenade, Prop: m_fFlags, Offset: 0x440
+Table: DT_BaseGrenade, Prop: m_flDamage, Offset: 0x1C0C
+Table: DT_BaseGrenade, Prop: m_DmgRadius, Offset: 0x1BFC
+Table: DT_BaseGrenade, Prop: m_bIsLive, Offset: 0x1BF9
+Table: DT_BaseGrenade, Prop: m_hThrower, Offset: 0x1C1C
+Table: DT_BaseGrenade, Prop: m_vecVelocity, Offset: 0x148
+Table: DT_BaseGrenade, Prop: m_fFlags, Offset: 0x440

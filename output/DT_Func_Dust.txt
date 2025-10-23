@@ -1,0 +1,12 @@
+Table: DT_Func_Dust, Prop: m_Color, Offset: 0x16C0
+Table: DT_Func_Dust, Prop: m_SpawnRate, Offset: 0x16C4
+Table: DT_Func_Dust, Prop: m_flSizeMin, Offset: 0x16C8
+Table: DT_Func_Dust, Prop: m_flSizeMax, Offset: 0x16CC
+Table: DT_Func_Dust, Prop: m_LifetimeMin, Offset: 0x16D4
+Table: DT_Func_Dust, Prop: m_LifetimeMax, Offset: 0x16D8
+Table: DT_Func_Dust, Prop: m_DustFlags, Offset: 0x16E8
+Table: DT_Func_Dust, Prop: m_SpeedMax, Offset: 0x16D0
+Table: DT_Func_Dust, Prop: m_DistMax, Offset: 0x16DC
+Table: DT_Func_Dust, Prop: m_nModelIndex, Offset: 0xC4
+Table: DT_Func_Dust, Prop: m_FallSpeed, Offset: 0x16E0
+Table: DT_Func_Dust, Prop: m_bAffectedByWind, Offset: 0x16E4

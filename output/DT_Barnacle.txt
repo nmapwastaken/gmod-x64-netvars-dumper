@@ -1,0 +1,4 @@
+Table: DT_Barnacle, Prop: m_flAltitude, Offset: 0x2998
+Table: DT_Barnacle, Prop: m_vecRoot, Offset: 0x2974
+Table: DT_Barnacle, Prop: m_vecTip, Offset: 0x2980
+Table: DT_Barnacle, Prop: m_vecTipDrawOffset, Offset: 0x298C

@@ -1,0 +1,4 @@
+Table: DT_InfoTeleporterCountdown, Prop: m_bCountdownStarted, Offset: 0x16C0
+Table: DT_InfoTeleporterCountdown, Prop: m_bDisabled, Offset: 0x16C1
+Table: DT_InfoTeleporterCountdown, Prop: m_flStartTime, Offset: 0x16C4
+Table: DT_InfoTeleporterCountdown, Prop: m_flTimeRemaining, Offset: 0x16C8

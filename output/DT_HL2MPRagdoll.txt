@@ -1,0 +1,6 @@
+Table: DT_HL2MPRagdoll, Prop: m_vecRagdollOrigin, Offset: 0x1C88
+Table: DT_HL2MPRagdoll, Prop: m_hPlayer, Offset: 0x1C78
+Table: DT_HL2MPRagdoll, Prop: m_nModelIndex, Offset: 0xC4
+Table: DT_HL2MPRagdoll, Prop: m_nForceBone, Offset: 0x172C
+Table: DT_HL2MPRagdoll, Prop: m_vecForce, Offset: 0x1720
+Table: DT_HL2MPRagdoll, Prop: m_vecRagdollVelocity, Offset: 0x1C7C

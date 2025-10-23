@@ -1,0 +1,8 @@
+Table: DT_BreakableSurface, Prop: m_nNumWide, Offset: 0x16C8
+Table: DT_BreakableSurface, Prop: m_nNumHigh, Offset: 0x16CC
+Table: DT_BreakableSurface, Prop: m_flPanelWidth, Offset: 0x16D0
+Table: DT_BreakableSurface, Prop: m_flPanelHeight, Offset: 0x16D4
+Table: DT_BreakableSurface, Prop: m_vNormal, Offset: 0x16D8
+Table: DT_BreakableSurface, Prop: m_vCorner, Offset: 0x16E4
+Table: DT_BreakableSurface, Prop: m_bIsBroken, Offset: 0x16F0
+Table: DT_BreakableSurface, Prop: m_nSurfaceType, Offset: 0x16F4

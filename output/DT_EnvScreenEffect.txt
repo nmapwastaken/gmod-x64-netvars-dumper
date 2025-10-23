@@ -1,0 +1,2 @@
+Table: DT_EnvScreenEffect, Prop: m_flDuration, Offset: 0x16C0
+Table: DT_EnvScreenEffect, Prop: m_nType, Offset: 0x16C4

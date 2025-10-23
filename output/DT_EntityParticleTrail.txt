@@ -1,0 +1,2 @@
+Table: DT_EntityParticleTrail, Prop: m_iMaterialName, Offset: 0x17F0
+Table: DT_EntityParticleTrail, Prop: m_hConstraintEntity, Offset: 0x1818

@@ -1,0 +1,9 @@
+Table: DT_ParticleSystem, Prop: m_vecOrigin, Offset: 0x428
+Table: DT_ParticleSystem, Prop: m_hOwnerEntity, Offset: 0x734
+Table: DT_ParticleSystem, Prop: moveparent, Offset: 0x20C
+Table: DT_ParticleSystem, Prop: m_iParentAttachment, Offset: 0x1F6
+Table: DT_ParticleSystem, Prop: m_angRotation, Offset: 0x434
+Table: DT_ParticleSystem, Prop: m_iEffectIndex, Offset: 0x16C0
+Table: DT_ParticleSystem, Prop: m_bActive, Offset: 0x16C4
+Table: DT_ParticleSystem, Prop: m_flStartTime, Offset: 0x16C8
+Table: DT_ParticleSystem, Prop: m_bWeatherEffect, Offset: 0x1807

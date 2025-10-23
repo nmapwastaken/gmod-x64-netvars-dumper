@@ -1,0 +1,15 @@
+Table: DT_BaseToggle, Prop: m_vecFinalDest, Offset: 0x16D4
+Table: DT_BaseToggle, Prop: m_movementType, Offset: 0x16E0
+Table: DT_BaseToggle, Prop: m_flMoveTargetTime, Offset: 0x16E4
+Table: DT_BaseToggle, Prop: m_vecFinalDest, Offset: 0x16D4
+Table: DT_BaseToggle, Prop: m_movementType, Offset: 0x16E0
+Table: DT_BaseToggle, Prop: m_flMoveTargetTime, Offset: 0x16E4
+Table: DT_BaseToggle, Prop: m_vecFinalDest, Offset: 0x16D4
+Table: DT_BaseToggle, Prop: m_movementType, Offset: 0x16E0
+Table: DT_BaseToggle, Prop: m_flMoveTargetTime, Offset: 0x16E4
+Table: DT_BaseToggle, Prop: m_vecFinalDest, Offset: 0x16D4
+Table: DT_BaseToggle, Prop: m_movementType, Offset: 0x16E0
+Table: DT_BaseToggle, Prop: m_flMoveTargetTime, Offset: 0x16E4
+Table: DT_BaseToggle, Prop: m_vecFinalDest, Offset: 0x16D4
+Table: DT_BaseToggle, Prop: m_movementType, Offset: 0x16E0
+Table: DT_BaseToggle, Prop: m_flMoveTargetTime, Offset: 0x16E4

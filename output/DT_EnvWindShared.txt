@@ -1,0 +1,13 @@
+Table: DT_EnvWindShared, Prop: m_EnvWindShared.m_iMinWind, Offset: 0x16D0
+Table: DT_EnvWindShared, Prop: m_EnvWindShared.m_iMaxWind, Offset: 0x16D4
+Table: DT_EnvWindShared, Prop: m_EnvWindShared.m_iMinGust, Offset: 0x16DC
+Table: DT_EnvWindShared, Prop: m_EnvWindShared.m_iMaxGust, Offset: 0x16E0
+Table: DT_EnvWindShared, Prop: m_EnvWindShared.m_flMinGustDelay, Offset: 0x16E4
+Table: DT_EnvWindShared, Prop: m_EnvWindShared.m_flMaxGustDelay, Offset: 0x16E8
+Table: DT_EnvWindShared, Prop: m_EnvWindShared.m_iGustDirChange, Offset: 0x16F0
+Table: DT_EnvWindShared, Prop: m_EnvWindShared.m_iWindSeed, Offset: 0x16CC
+Table: DT_EnvWindShared, Prop: m_EnvWindShared.m_iInitialWindDir, Offset: 0x1730
+Table: DT_EnvWindShared, Prop: m_EnvWindShared.m_flInitialWindSpeed, Offset: 0x1734
+Table: DT_EnvWindShared, Prop: m_EnvWindShared.m_flStartTime, Offset: 0x16C8
+Table: DT_EnvWindShared, Prop: m_EnvWindShared.m_flGustDuration, Offset: 0x16EC
+Table: DT_EnvWindShared, Prop: m_EnvWindShared.m_windRadius, Offset: 0x16D8

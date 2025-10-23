@@ -1,0 +1,2 @@
+Table: DT_FleshEffectTarget, Prop: m_flRadius, Offset: 0x16C0
+Table: DT_FleshEffectTarget, Prop: m_flScaleTime, Offset: 0x16CC

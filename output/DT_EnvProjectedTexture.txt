@@ -1,0 +1,14 @@
+Table: DT_EnvProjectedTexture, Prop: m_hTargetEntity, Offset: 0x16C4
+Table: DT_EnvProjectedTexture, Prop: m_bState, Offset: 0x16C8
+Table: DT_EnvProjectedTexture, Prop: m_flLightFOV, Offset: 0x16CC
+Table: DT_EnvProjectedTexture, Prop: m_bEnableShadows, Offset: 0x16D0
+Table: DT_EnvProjectedTexture, Prop: m_bLightOnlyTarget, Offset: 0x16D1
+Table: DT_EnvProjectedTexture, Prop: m_bLightWorld, Offset: 0x16D2
+Table: DT_EnvProjectedTexture, Prop: m_bCameraSpace, Offset: 0x16D3
+Table: DT_EnvProjectedTexture, Prop: m_LinearFloatLightColor, Offset: 0x16D4
+Table: DT_EnvProjectedTexture, Prop: m_SpotlightTextureName, Offset: 0x16E8
+Table: DT_EnvProjectedTexture, Prop: m_nSpotlightTextureFrame, Offset: 0x17EC
+Table: DT_EnvProjectedTexture, Prop: m_flNearZ, Offset: 0x16E0
+Table: DT_EnvProjectedTexture, Prop: m_flFarZ, Offset: 0x16E4
+Table: DT_EnvProjectedTexture, Prop: m_nShadowQuality, Offset: 0x17F0
+Table: DT_EnvProjectedTexture, Prop: m_iStyle, Offset: 0x17F8

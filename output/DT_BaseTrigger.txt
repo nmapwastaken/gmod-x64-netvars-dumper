@@ -1,0 +1,6 @@
+Table: DT_BaseTrigger, Prop: m_bClientSidePredicted, Offset: 0x16F0
+Table: DT_BaseTrigger, Prop: m_spawnflags, Offset: 0x92C
+Table: DT_BaseTrigger, Prop: m_bClientSidePredicted, Offset: 0x16F0
+Table: DT_BaseTrigger, Prop: m_spawnflags, Offset: 0x92C
+Table: DT_BaseTrigger, Prop: m_bClientSidePredicted, Offset: 0x16F0
+Table: DT_BaseTrigger, Prop: m_spawnflags, Offset: 0x92C

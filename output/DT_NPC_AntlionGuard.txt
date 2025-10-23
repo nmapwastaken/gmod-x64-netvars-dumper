@@ -1,0 +1,3 @@
+Table: DT_NPC_AntlionGuard, Prop: m_bCavernBreed, Offset: 0x2968
+Table: DT_NPC_AntlionGuard, Prop: m_bInCavern, Offset: 0x2969
+Table: DT_NPC_AntlionGuard, Prop: m_iBleedingLevel, Offset: 0x2978

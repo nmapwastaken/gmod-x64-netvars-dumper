@@ -1,0 +1,4 @@
+Table: DT_DynamicProp, Prop: m_bUseHitboxesForRenderBox, Offset: 0x1BF8
+Table: DT_DynamicProp, Prop: m_bUseHitboxesForRenderBox, Offset: 0x1BF8
+Table: DT_DynamicProp, Prop: m_bUseHitboxesForRenderBox, Offset: 0x1BF8
+Table: DT_DynamicProp, Prop: m_bUseHitboxesForRenderBox, Offset: 0x1BF8

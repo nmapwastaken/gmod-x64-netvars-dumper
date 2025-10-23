@@ -1,0 +1,10 @@
+Table: DT_FuncSmokeVolume, Prop: m_Color1, Offset: 0x17F8
+Table: DT_FuncSmokeVolume, Prop: m_Color2, Offset: 0x17FC
+Table: DT_FuncSmokeVolume, Prop: m_MaterialName, Offset: 0x1800
+Table: DT_FuncSmokeVolume, Prop: m_ParticleDrawWidth, Offset: 0x1900
+Table: DT_FuncSmokeVolume, Prop: m_ParticleSpacingDistance, Offset: 0x1904
+Table: DT_FuncSmokeVolume, Prop: m_DensityRampSpeed, Offset: 0x1908
+Table: DT_FuncSmokeVolume, Prop: m_RotationSpeed, Offset: 0x190C
+Table: DT_FuncSmokeVolume, Prop: m_MovementSpeed, Offset: 0x1910
+Table: DT_FuncSmokeVolume, Prop: m_Density, Offset: 0x1914
+Table: DT_FuncSmokeVolume, Prop: m_spawnflags, Offset: 0x1918

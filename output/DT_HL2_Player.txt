@@ -1,0 +1,3 @@
+Table: DT_HL2_Player, Prop: m_fIsSprinting, Offset: 0x3640
+Table: DT_HL2_Player, Prop: m_fIsSprinting, Offset: 0x3640
+Table: DT_HL2_Player, Prop: m_fIsSprinting, Offset: 0x3640

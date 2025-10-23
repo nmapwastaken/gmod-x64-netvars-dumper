@@ -1,0 +1,4 @@
+Table: DT_FuncAreaPortalWindow, Prop: m_flFadeStartDist, Offset: 0x16C0
+Table: DT_FuncAreaPortalWindow, Prop: m_flFadeDist, Offset: 0x16C4
+Table: DT_FuncAreaPortalWindow, Prop: m_flTranslucencyLimit, Offset: 0x16C8
+Table: DT_FuncAreaPortalWindow, Prop: m_iBackgroundModelIndex, Offset: 0x16CC

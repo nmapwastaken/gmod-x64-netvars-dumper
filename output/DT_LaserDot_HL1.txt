@@ -1,0 +1,1 @@
+Table: DT_LaserDot_HL1, Prop: m_bIsOn, Offset: 0x16D9

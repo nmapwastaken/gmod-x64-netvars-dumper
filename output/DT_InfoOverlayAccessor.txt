@@ -1,0 +1,2 @@
+Table: DT_InfoOverlayAccessor, Prop: m_iTextureFrameIndex, Offset: 0x728
+Table: DT_InfoOverlayAccessor, Prop: m_iOverlayID, Offset: 0x16C0

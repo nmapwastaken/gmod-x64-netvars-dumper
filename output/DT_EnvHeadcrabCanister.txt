@@ -1,0 +1,1 @@
+Table: DT_EnvHeadcrabCanister, Prop: m_bLanded, Offset: 0x1C78

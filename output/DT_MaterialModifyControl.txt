@@ -1,0 +1,13 @@
+Table: DT_MaterialModifyControl, Prop: m_szMaterialName, Offset: 0x16C0
+Table: DT_MaterialModifyControl, Prop: m_szMaterialVar, Offset: 0x17BF
+Table: DT_MaterialModifyControl, Prop: m_szMaterialVarValue, Offset: 0x18BE
+Table: DT_MaterialModifyControl, Prop: m_iFrameStart, Offset: 0x19CC
+Table: DT_MaterialModifyControl, Prop: m_iFrameEnd, Offset: 0x19D0
+Table: DT_MaterialModifyControl, Prop: m_bWrap, Offset: 0x19D4
+Table: DT_MaterialModifyControl, Prop: m_flFramerate, Offset: 0x19D8
+Table: DT_MaterialModifyControl, Prop: m_bNewAnimCommandsSemaphore, Offset: 0x19DC
+Table: DT_MaterialModifyControl, Prop: m_flFloatLerpStartValue, Offset: 0x19E0
+Table: DT_MaterialModifyControl, Prop: m_flFloatLerpEndValue, Offset: 0x19E4
+Table: DT_MaterialModifyControl, Prop: m_flFloatLerpTransitionTime, Offset: 0x19E8
+Table: DT_MaterialModifyControl, Prop: m_bFloatLerpWrap, Offset: 0x19EC
+Table: DT_MaterialModifyControl, Prop: m_nModifyMode, Offset: 0x19F4

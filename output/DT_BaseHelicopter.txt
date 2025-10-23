@@ -1,0 +1,2 @@
+Table: DT_BaseHelicopter, Prop: m_flStartupTime, Offset: 0x2968
+Table: DT_BaseHelicopter, Prop: m_flStartupTime, Offset: 0x2968

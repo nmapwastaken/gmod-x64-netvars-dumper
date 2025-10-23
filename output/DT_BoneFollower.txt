@@ -1,0 +1,2 @@
+Table: DT_BoneFollower, Prop: m_modelIndex, Offset: 0x16C0
+Table: DT_BoneFollower, Prop: m_solidIndex, Offset: 0x16C4

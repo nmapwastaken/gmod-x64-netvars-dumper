@@ -1,0 +1,8 @@
+Table: DT_CFish, Prop: m_poolOrigin, Offset: 0x1C54
+Table: DT_CFish, Prop: m_x, Offset: 0x1C3C
+Table: DT_CFish, Prop: m_y, Offset: 0x1C40
+Table: DT_CFish, Prop: m_z, Offset: 0x1C44
+Table: DT_CFish, Prop: m_angle, Offset: 0x1C4C
+Table: DT_CFish, Prop: m_nModelIndex, Offset: 0xC4
+Table: DT_CFish, Prop: m_lifeState, Offset: 0xC7
+Table: DT_CFish, Prop: m_waterLevel, Offset: 0x1C60

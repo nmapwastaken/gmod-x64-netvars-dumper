@@ -1,0 +1,1 @@
+Table: DT_BaseDoor, Prop: m_flWaveHeight, Offset: 0x16F0

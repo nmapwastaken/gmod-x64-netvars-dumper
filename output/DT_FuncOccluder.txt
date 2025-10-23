@@ -1,0 +1,2 @@
+Table: DT_FuncOccluder, Prop: m_bActive, Offset: 0x16C4
+Table: DT_FuncOccluder, Prop: m_nOccluderIndex, Offset: 0x16C0

@@ -1,0 +1,2 @@
+Table: DT_EnvStarfield, Prop: m_bOn, Offset: 0x16C8
+Table: DT_EnvStarfield, Prop: m_flDensity, Offset: 0x16CC

@@ -1,0 +1,2 @@
+Table: DT_ParticleFire, Prop: m_vOrigin, Offset: 0x1808
+Table: DT_ParticleFire, Prop: m_vDirection, Offset: 0x1814

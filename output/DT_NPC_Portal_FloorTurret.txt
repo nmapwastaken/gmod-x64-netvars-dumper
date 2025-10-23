@@ -1,0 +1,3 @@
+Table: DT_NPC_Portal_FloorTurret, Prop: m_bOutOfAmmo, Offset: 0x296C
+Table: DT_NPC_Portal_FloorTurret, Prop: m_bLaserOn, Offset: 0x296D
+Table: DT_NPC_Portal_FloorTurret, Prop: m_sLaserHaloSprite, Offset: 0x2970

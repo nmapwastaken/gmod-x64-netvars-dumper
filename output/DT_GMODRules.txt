@@ -1,0 +1,2 @@
+Table: DT_GMODRules, Prop: gmod_gamerules_data.m_fTimeScale, Offset: 0x70
+Table: DT_GMODRules, Prop: gmod_gamerules_data.m_iSkillLevel, Offset: 0x74

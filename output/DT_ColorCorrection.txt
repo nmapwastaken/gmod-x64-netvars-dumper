@@ -1,0 +1,11 @@
+Table: DT_ColorCorrection, Prop: m_vecOrigin, Offset: 0x16C0
+Table: DT_ColorCorrection, Prop: m_minFalloff, Offset: 0x16CC
+Table: DT_ColorCorrection, Prop: m_maxFalloff, Offset: 0x16D0
+Table: DT_ColorCorrection, Prop: m_flCurWeight, Offset: 0x16E0
+Table: DT_ColorCorrection, Prop: m_flMaxWeight, Offset: 0x16DC
+Table: DT_ColorCorrection, Prop: m_flFadeInDuration, Offset: 0x16D4
+Table: DT_ColorCorrection, Prop: m_flFadeOutDuration, Offset: 0x16D8
+Table: DT_ColorCorrection, Prop: m_netLookupFilename, Offset: 0x16E4
+Table: DT_ColorCorrection, Prop: m_bEnabled, Offset: 0x17E8
+Table: DT_ColorCorrection, Prop: m_bClientSide, Offset: 0x17E9
+Table: DT_ColorCorrection, Prop: m_bExclusive, Offset: 0x17EA

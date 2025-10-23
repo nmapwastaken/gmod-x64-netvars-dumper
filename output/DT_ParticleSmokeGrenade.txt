@@ -1,0 +1,4 @@
+Table: DT_ParticleSmokeGrenade, Prop: m_flSpawnTime, Offset: 0x1808
+Table: DT_ParticleSmokeGrenade, Prop: m_FadeStartTime, Offset: 0x180C
+Table: DT_ParticleSmokeGrenade, Prop: m_FadeEndTime, Offset: 0x1810
+Table: DT_ParticleSmokeGrenade, Prop: m_CurrentStage, Offset: 0x17F8

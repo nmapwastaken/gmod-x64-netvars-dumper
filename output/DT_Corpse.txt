@@ -1,0 +1,1 @@
+Table: DT_Corpse, Prop: m_nReferencePlayer, Offset: 0x1BF8

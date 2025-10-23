@@ -1,0 +1,8 @@
+Table: DT_BeamSpotlight, Prop: m_nHaloIndex, Offset: 0x16C0
+Table: DT_BeamSpotlight, Prop: m_bSpotlightOn, Offset: 0x16CC
+Table: DT_BeamSpotlight, Prop: m_bHasDynamicLight, Offset: 0x16CD
+Table: DT_BeamSpotlight, Prop: m_flSpotlightMaxLength, Offset: 0x16D0
+Table: DT_BeamSpotlight, Prop: m_flSpotlightGoalWidth, Offset: 0x16D4
+Table: DT_BeamSpotlight, Prop: m_flHDRColorScale, Offset: 0x16D8
+Table: DT_BeamSpotlight, Prop: m_nRotationAxis, Offset: 0x16C4
+Table: DT_BeamSpotlight, Prop: m_flRotationSpeed, Offset: 0x16C8

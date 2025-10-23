@@ -1,0 +1,7 @@
+Table: DT_NPC_Strider, Prop: m_vecHitPos, Offset: 0x29D0
+Table: DT_NPC_Strider, Prop: m_vecIKTarget[0], Offset: 0x29DC
+Table: DT_NPC_Strider, Prop: m_vecIKTarget[1], Offset: 0x29E8
+Table: DT_NPC_Strider, Prop: m_vecIKTarget[2], Offset: 0x29F4
+Table: DT_NPC_Strider, Prop: m_vecIKTarget[3], Offset: 0x2A00
+Table: DT_NPC_Strider, Prop: m_vecIKTarget[4], Offset: 0x2A0C
+Table: DT_NPC_Strider, Prop: m_vecIKTarget[5], Offset: 0x2A18

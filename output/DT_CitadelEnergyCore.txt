@@ -1,0 +1,5 @@
+Table: DT_CitadelEnergyCore, Prop: m_flScale, Offset: 0x16C0
+Table: DT_CitadelEnergyCore, Prop: m_nState, Offset: 0x16C4
+Table: DT_CitadelEnergyCore, Prop: m_flDuration, Offset: 0x16C8
+Table: DT_CitadelEnergyCore, Prop: m_flStartTime, Offset: 0x16CC
+Table: DT_CitadelEnergyCore, Prop: m_spawnflags, Offset: 0x16D0

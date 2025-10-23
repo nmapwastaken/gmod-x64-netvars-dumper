@@ -1,0 +1,2 @@
+Table: DT_Func_LOD, Prop: m_fDisappearMinDist, Offset: 0x16C0
+Table: DT_Func_LOD, Prop: m_fDisappearMaxDist, Offset: 0x16C4

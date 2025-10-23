@@ -1,0 +1,16 @@
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_flFlightSpeed, Offset: 0x1C34
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_flLaunchTime, Offset: 0x1C38
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_vecParabolaDirection, Offset: 0x1C4C
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_flFlightTime, Offset: 0x1C30
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_flWorldEnterTime, Offset: 0x1C58
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_flInitialZSpeed, Offset: 0x1C3C
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_flZAcceleration, Offset: 0x1C40
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_flHorizSpeed, Offset: 0x1C44
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_bLaunchedFromWithinWorld, Offset: 0x1C48
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_vecStartPosition, Offset: 0x1C00
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_vecEnterWorldPosition, Offset: 0x1C0C
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_vecDirection, Offset: 0x1C18
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_vecStartAngles, Offset: 0x1C24
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_vecSkyboxOrigin, Offset: 0x1C5C
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_flSkyboxScale, Offset: 0x1C68
+Table: DT_EnvHeadcrabCanisterShared, Prop: m_Shared.m_bInSkybox, Offset: 0x1C6C

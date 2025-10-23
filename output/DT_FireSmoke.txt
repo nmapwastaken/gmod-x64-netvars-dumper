@@ -1,0 +1,6 @@
+Table: DT_FireSmoke, Prop: m_flStartScale, Offset: 0x16C0
+Table: DT_FireSmoke, Prop: m_flScale, Offset: 0x16C4
+Table: DT_FireSmoke, Prop: m_flScaleTime, Offset: 0x16C8
+Table: DT_FireSmoke, Prop: m_nFlags, Offset: 0x16CC
+Table: DT_FireSmoke, Prop: m_nFlameModelIndex, Offset: 0x16D0
+Table: DT_FireSmoke, Prop: m_nFlameFromAboveModelIndex, Offset: 0x16D4

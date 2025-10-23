@@ -1,0 +1,8 @@
+Table: DT_HL2MP_Player, Prop: m_hRagdoll, Offset: 0x36C8
+Table: DT_HL2MP_Player, Prop: m_iSpawnInterpCounter, Offset: 0x370C
+Table: DT_HL2MP_Player, Prop: m_iPlayerSoundType, Offset: 0x3714
+Table: DT_HL2MP_Player, Prop: m_fIsWalking, Offset: 0x372C
+Table: DT_HL2MP_Player, Prop: m_hRagdoll, Offset: 0x36C8
+Table: DT_HL2MP_Player, Prop: m_iSpawnInterpCounter, Offset: 0x370C
+Table: DT_HL2MP_Player, Prop: m_iPlayerSoundType, Offset: 0x3714
+Table: DT_HL2MP_Player, Prop: m_fIsWalking, Offset: 0x372C

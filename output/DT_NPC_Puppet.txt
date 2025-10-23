@@ -1,0 +1,2 @@
+Table: DT_NPC_Puppet, Prop: m_hAnimationTarget, Offset: 0x2968
+Table: DT_NPC_Puppet, Prop: m_nTargetAttachment, Offset: 0x296C

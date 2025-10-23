@@ -1,0 +1,2 @@
+Table: DT_DetailController, Prop: m_flFadeStartDist, Offset: 0x16C0
+Table: DT_DetailController, Prop: m_flFadeEndDist, Offset: 0x16C4

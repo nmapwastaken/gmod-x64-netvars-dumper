@@ -1,0 +1,2 @@
+Table: DT_FlexManipulate, Prop: m_flexScale, Offset: 0x1840
+Table: DT_FlexManipulate, Prop: m_EyesLocalTarget, Offset: 0x1844

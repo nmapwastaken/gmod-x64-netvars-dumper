@@ -1,0 +1,2 @@
+Table: DT_ParticlePerformanceMonitor, Prop: m_bMeasurePerf, Offset: 0x16C1
+Table: DT_ParticlePerformanceMonitor, Prop: m_bDisplayPerf, Offset: 0x16C0

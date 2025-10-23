@@ -1,0 +1,1 @@
+Table: DT_HL2MPRules, Prop: hl2mp_gamerules_data.m_bTeamPlayEnabled, Offset: 0x38

@@ -1,0 +1,4 @@
+Table: DT_Embers, Prop: m_nDensity, Offset: 0x16C0
+Table: DT_Embers, Prop: m_nLifetime, Offset: 0x16C4
+Table: DT_Embers, Prop: m_nSpeed, Offset: 0x16C8
+Table: DT_Embers, Prop: m_bEmit, Offset: 0x16CC

@@ -1,0 +1,4 @@
+Table: DT_FuncLadder, Prop: m_vecPlayerMountPositionTop, Offset: 0x16F0
+Table: DT_FuncLadder, Prop: m_vecPlayerMountPositionBottom, Offset: 0x16FC
+Table: DT_FuncLadder, Prop: m_vecLadderDir, Offset: 0x16C0
+Table: DT_FuncLadder, Prop: m_bFakeLadder, Offset: 0x1709

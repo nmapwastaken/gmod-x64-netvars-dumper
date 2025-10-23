@@ -1,0 +1,3 @@
+Table: DT_MortarShell, Prop: m_flLifespan, Offset: 0x16D0
+Table: DT_MortarShell, Prop: m_flRadius, Offset: 0x16D4
+Table: DT_MortarShell, Prop: m_vecSurfaceNormal, Offset: 0x16DC

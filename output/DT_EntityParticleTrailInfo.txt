@@ -1,0 +1,3 @@
+Table: DT_EntityParticleTrailInfo, Prop: m_Info.m_flLifetime, Offset: 0x1808
+Table: DT_EntityParticleTrailInfo, Prop: m_Info.m_flStartSize, Offset: 0x180C
+Table: DT_EntityParticleTrailInfo, Prop: m_Info.m_flEndSize, Offset: 0x1810

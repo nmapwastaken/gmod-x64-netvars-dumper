@@ -1,0 +1,5 @@
+Table: DT_FuncRotating, Prop: m_vecOrigin, Offset: 0x428
+Table: DT_FuncRotating, Prop: m_angRotation[0], Offset: 0x434
+Table: DT_FuncRotating, Prop: m_angRotation[1], Offset: 0x438
+Table: DT_FuncRotating, Prop: m_angRotation[2], Offset: 0x43C
+Table: DT_FuncRotating, Prop: m_flSimulationTime, Offset: 0xA0

@@ -1,0 +1,6 @@
+Table: DT_HL2MPLocalPlayerExclusive, Prop: hl2mplocaldata.m_vecOrigin, Offset: 0x428
+Table: DT_HL2MPLocalPlayerExclusive, Prop: hl2mplocaldata.m_angEyeAngles[0], Offset: 0x3668
+Table: DT_HL2MPLocalPlayerExclusive, Prop: hl2mplocaldata.m_angEyeAngles[1], Offset: 0x366C
+Table: DT_HL2MPLocalPlayerExclusive, Prop: hl2mplocaldata.m_vecOrigin, Offset: 0x428
+Table: DT_HL2MPLocalPlayerExclusive, Prop: hl2mplocaldata.m_angEyeAngles[0], Offset: 0x3668
+Table: DT_HL2MPLocalPlayerExclusive, Prop: hl2mplocaldata.m_angEyeAngles[1], Offset: 0x366C

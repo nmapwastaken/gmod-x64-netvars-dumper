@@ -1,0 +1,10 @@
+Table: DT_EntityDissolve, Prop: m_flStartTime, Offset: 0x16C8
+Table: DT_EntityDissolve, Prop: m_flFadeOutStart, Offset: 0x16CC
+Table: DT_EntityDissolve, Prop: m_flFadeOutLength, Offset: 0x16D0
+Table: DT_EntityDissolve, Prop: m_flFadeOutModelStart, Offset: 0x16D4
+Table: DT_EntityDissolve, Prop: m_flFadeOutModelLength, Offset: 0x16D8
+Table: DT_EntityDissolve, Prop: m_flFadeInStart, Offset: 0x16DC
+Table: DT_EntityDissolve, Prop: m_flFadeInLength, Offset: 0x16E0
+Table: DT_EntityDissolve, Prop: m_nDissolveType, Offset: 0x16E4
+Table: DT_EntityDissolve, Prop: m_vDissolverOrigin, Offset: 0x16F8
+Table: DT_EntityDissolve, Prop: m_nMagnitude, Offset: 0x1704

@@ -1,0 +1,4 @@
+Table: DT_HL2MPMachineGun, Prop: m_nShotsFired, Offset: 0x1CE8
+Table: DT_HL2MPMachineGun, Prop: m_nShotsFired, Offset: 0x1CE8
+Table: DT_HL2MPMachineGun, Prop: m_nShotsFired, Offset: 0x1CE8
+Table: DT_HL2MPMachineGun, Prop: m_nShotsFired, Offset: 0x1CE8
