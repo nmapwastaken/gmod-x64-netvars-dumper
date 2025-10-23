@@ -1,0 +1,4 @@
+Table: DT_PlayerState, Prop: pl.deadflag, Offset: 0x2C40
+Table: DT_PlayerState, Prop: pl.deadflag, Offset: 0x2C40
+Table: DT_PlayerState, Prop: pl.deadflag, Offset: 0x2C40
+Table: DT_PlayerState, Prop: pl.deadflag, Offset: 0x2C40

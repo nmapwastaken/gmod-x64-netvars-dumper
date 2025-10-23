@@ -1,0 +1,6 @@
+Table: DT_TEBloodStream, Prop: m_vecDirection, Offset: 0x30
+Table: DT_TEBloodStream, Prop: r, Offset: 0x3C
+Table: DT_TEBloodStream, Prop: g, Offset: 0x40
+Table: DT_TEBloodStream, Prop: b, Offset: 0x44
+Table: DT_TEBloodStream, Prop: a, Offset: 0x48
+Table: DT_TEBloodStream, Prop: m_nAmount, Offset: 0x4C

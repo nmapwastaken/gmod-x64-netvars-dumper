@@ -1,0 +1,1 @@
+Table: DT_TEBeamFollow, Prop: m_iEntIndex, Offset: 0x60

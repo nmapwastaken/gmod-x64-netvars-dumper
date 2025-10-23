@@ -1,0 +1,1 @@
+Table: DT_VortigauntEffectDispel, Prop: m_bFadeOut, Offset: 0x16D0

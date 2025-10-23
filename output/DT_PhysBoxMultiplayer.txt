@@ -1,0 +1,2 @@
+Table: DT_PhysBoxMultiplayer, Prop: m_iPhysicsMode, Offset: 0x16D0
+Table: DT_PhysBoxMultiplayer, Prop: m_fMass, Offset: 0x16D4

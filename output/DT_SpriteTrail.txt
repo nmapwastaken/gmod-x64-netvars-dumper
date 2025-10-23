@@ -1,0 +1,8 @@
+Table: DT_SpriteTrail, Prop: m_flLifeTime, Offset: 0x2364
+Table: DT_SpriteTrail, Prop: m_flStartWidth, Offset: 0x2368
+Table: DT_SpriteTrail, Prop: m_flEndWidth, Offset: 0x236C
+Table: DT_SpriteTrail, Prop: m_flStartWidthVariance, Offset: 0x2370
+Table: DT_SpriteTrail, Prop: m_flTextureRes, Offset: 0x2374
+Table: DT_SpriteTrail, Prop: m_flMinFadeLength, Offset: 0x2378
+Table: DT_SpriteTrail, Prop: m_vecSkyboxOrigin, Offset: 0x237C
+Table: DT_SpriteTrail, Prop: m_flSkyboxScale, Offset: 0x2388

@@ -1,0 +1,2 @@
+Table: DT_Tesla, Prop: m_SoundName, Offset: 0x16F0
+Table: DT_Tesla, Prop: m_iszSpriteName, Offset: 0x1730

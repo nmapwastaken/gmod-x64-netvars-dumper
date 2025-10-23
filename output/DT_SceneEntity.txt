@@ -1,0 +1,5 @@
+Table: DT_SceneEntity, Prop: m_nSceneStringIndex, Offset: 0x16D4
+Table: DT_SceneEntity, Prop: m_bIsPlayingBack, Offset: 0x16C8
+Table: DT_SceneEntity, Prop: m_bPaused, Offset: 0x16C9
+Table: DT_SceneEntity, Prop: m_bMultiplayer, Offset: 0x16CA
+Table: DT_SceneEntity, Prop: m_flForceClientTime, Offset: 0x16D0

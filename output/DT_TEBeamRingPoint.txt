@@ -1,0 +1,3 @@
+Table: DT_TEBeamRingPoint, Prop: m_vecCenter, Offset: 0x60
+Table: DT_TEBeamRingPoint, Prop: m_flStartRadius, Offset: 0x6C
+Table: DT_TEBeamRingPoint, Prop: m_flEndRadius, Offset: 0x70

@@ -1,0 +1,5 @@
+Table: DT_TEClientProjectile, Prop: m_vecOrigin, Offset: 0x20
+Table: DT_TEClientProjectile, Prop: m_vecVelocity, Offset: 0x2C
+Table: DT_TEClientProjectile, Prop: m_nModelIndex, Offset: 0x38
+Table: DT_TEClientProjectile, Prop: m_nLifeTime, Offset: 0x3C
+Table: DT_TEClientProjectile, Prop: m_hOwner, Offset: 0x40

@@ -1,0 +1,9 @@
+Table: DT_Sun, Prop: m_clrRender, Offset: 0x88
+Table: DT_Sun, Prop: m_clrOverlay, Offset: 0x1870
+Table: DT_Sun, Prop: m_vDirection, Offset: 0x187C
+Table: DT_Sun, Prop: m_bOn, Offset: 0x1888
+Table: DT_Sun, Prop: m_nSize, Offset: 0x1874
+Table: DT_Sun, Prop: m_nOverlaySize, Offset: 0x1878
+Table: DT_Sun, Prop: m_nMaterial, Offset: 0x188C
+Table: DT_Sun, Prop: m_nOverlayMaterial, Offset: 0x1890
+Table: DT_Sun, Prop: HDRColorScale, Offset: 0x0

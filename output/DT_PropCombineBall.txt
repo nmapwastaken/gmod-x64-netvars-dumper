@@ -1,0 +1,8 @@
+Table: DT_PropCombineBall, Prop: m_bEmit, Offset: 0x1C04
+Table: DT_PropCombineBall, Prop: m_flRadius, Offset: 0x1C08
+Table: DT_PropCombineBall, Prop: m_bHeld, Offset: 0x1C0C
+Table: DT_PropCombineBall, Prop: m_bLaunched, Offset: 0x1C0D
+Table: DT_PropCombineBall, Prop: m_bEmit, Offset: 0x1C04
+Table: DT_PropCombineBall, Prop: m_flRadius, Offset: 0x1C08
+Table: DT_PropCombineBall, Prop: m_bHeld, Offset: 0x1C0C
+Table: DT_PropCombineBall, Prop: m_bLaunched, Offset: 0x1C0D

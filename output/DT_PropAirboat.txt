@@ -1,0 +1,5 @@
+Table: DT_PropAirboat, Prop: m_bHeadlightIsOn, Offset: 0x1D6C
+Table: DT_PropAirboat, Prop: m_nAmmoCount, Offset: 0x1D70
+Table: DT_PropAirboat, Prop: m_nExactWaterLevel, Offset: 0x1D80
+Table: DT_PropAirboat, Prop: m_nWaterLevel, Offset: 0x1F8
+Table: DT_PropAirboat, Prop: m_vecPhysVelocity, Offset: 0x21E0

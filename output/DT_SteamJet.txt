@@ -1,0 +1,11 @@
+Table: DT_SteamJet, Prop: m_SpreadSpeed, Offset: 0x17F8
+Table: DT_SteamJet, Prop: m_Speed, Offset: 0x17FC
+Table: DT_SteamJet, Prop: m_StartSize, Offset: 0x1800
+Table: DT_SteamJet, Prop: m_EndSize, Offset: 0x1804
+Table: DT_SteamJet, Prop: m_Rate, Offset: 0x1808
+Table: DT_SteamJet, Prop: m_JetLength, Offset: 0x180C
+Table: DT_SteamJet, Prop: m_bEmit, Offset: 0x1810
+Table: DT_SteamJet, Prop: m_bFaceLeft, Offset: 0x1818
+Table: DT_SteamJet, Prop: m_nType, Offset: 0x1814
+Table: DT_SteamJet, Prop: m_spawnflags, Offset: 0x181C
+Table: DT_SteamJet, Prop: m_flRollSpeed, Offset: 0x1820

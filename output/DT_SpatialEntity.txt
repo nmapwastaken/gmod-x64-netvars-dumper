@@ -1,0 +1,10 @@
+Table: DT_SpatialEntity, Prop: m_vecOrigin, Offset: 0x16C0
+Table: DT_SpatialEntity, Prop: m_minFalloff, Offset: 0x16CC
+Table: DT_SpatialEntity, Prop: m_maxFalloff, Offset: 0x16D0
+Table: DT_SpatialEntity, Prop: m_flCurWeight, Offset: 0x16D4
+Table: DT_SpatialEntity, Prop: m_bEnabled, Offset: 0x17DC
+Table: DT_SpatialEntity, Prop: m_vecOrigin, Offset: 0x16C0
+Table: DT_SpatialEntity, Prop: m_minFalloff, Offset: 0x16CC
+Table: DT_SpatialEntity, Prop: m_maxFalloff, Offset: 0x16D0
+Table: DT_SpatialEntity, Prop: m_flCurWeight, Offset: 0x16D4
+Table: DT_SpatialEntity, Prop: m_bEnabled, Offset: 0x17DC

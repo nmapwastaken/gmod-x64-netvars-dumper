@@ -1,0 +1,5 @@
+Table: DT_PropCrane, Prop: m_hPlayer, Offset: 0x1C00
+Table: DT_PropCrane, Prop: m_bMagnetOn, Offset: 0x1C18
+Table: DT_PropCrane, Prop: m_bEnterAnimOn, Offset: 0x1C08
+Table: DT_PropCrane, Prop: m_bExitAnimOn, Offset: 0x1C09
+Table: DT_PropCrane, Prop: m_vecEyeExitEndpoint, Offset: 0x1C0C

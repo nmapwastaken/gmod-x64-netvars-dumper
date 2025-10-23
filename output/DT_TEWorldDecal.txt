@@ -1,0 +1,2 @@
+Table: DT_TEWorldDecal, Prop: m_vecOrigin, Offset: 0x20
+Table: DT_TEWorldDecal, Prop: m_nIndex, Offset: 0x2C

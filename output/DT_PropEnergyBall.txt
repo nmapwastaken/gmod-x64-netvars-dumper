@@ -1,0 +1,2 @@
+Table: DT_PropEnergyBall, Prop: m_bIsInfiniteLife, Offset: 0x1C28
+Table: DT_PropEnergyBall, Prop: m_fTimeTillDeath, Offset: 0x1C2C

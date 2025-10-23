@@ -1,0 +1,7 @@
+Table: DT_SlideshowDisplay, Prop: m_bEnabled, Offset: 0x16C0
+Table: DT_SlideshowDisplay, Prop: m_szDisplayText, Offset: 0x16C1
+Table: DT_SlideshowDisplay, Prop: m_szSlideshowDirectory, Offset: 0x1741
+Table: DT_SlideshowDisplay, Prop: m_fMinSlideTime, Offset: 0x1800
+Table: DT_SlideshowDisplay, Prop: m_fMaxSlideTime, Offset: 0x1804
+Table: DT_SlideshowDisplay, Prop: m_iCycleType, Offset: 0x180C
+Table: DT_SlideshowDisplay, Prop: m_bNoListRepeats, Offset: 0x1810

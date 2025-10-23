@@ -1,0 +1,14 @@
+Table: DT_TEShatterSurface, Prop: m_vecOrigin, Offset: 0x20
+Table: DT_TEShatterSurface, Prop: m_vecAngles, Offset: 0x2C
+Table: DT_TEShatterSurface, Prop: m_vecForce, Offset: 0x38
+Table: DT_TEShatterSurface, Prop: m_vecForcePos, Offset: 0x44
+Table: DT_TEShatterSurface, Prop: m_flWidth, Offset: 0x50
+Table: DT_TEShatterSurface, Prop: m_flHeight, Offset: 0x54
+Table: DT_TEShatterSurface, Prop: m_flShardSize, Offset: 0x58
+Table: DT_TEShatterSurface, Prop: m_nSurfaceType, Offset: 0x68
+Table: DT_TEShatterSurface, Prop: m_uchFrontColor[0], Offset: 0x6C
+Table: DT_TEShatterSurface, Prop: m_uchFrontColor[1], Offset: 0x6D
+Table: DT_TEShatterSurface, Prop: m_uchFrontColor[2], Offset: 0x6E
+Table: DT_TEShatterSurface, Prop: m_uchBackColor[0], Offset: 0x6F
+Table: DT_TEShatterSurface, Prop: m_uchBackColor[1], Offset: 0x70
+Table: DT_TEShatterSurface, Prop: m_uchBackColor[2], Offset: 0x71

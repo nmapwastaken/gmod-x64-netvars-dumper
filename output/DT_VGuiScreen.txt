@@ -1,0 +1,7 @@
+Table: DT_VGuiScreen, Prop: m_flWidth, Offset: 0x16C8
+Table: DT_VGuiScreen, Prop: m_flHeight, Offset: 0x16CC
+Table: DT_VGuiScreen, Prop: m_fScreenFlags, Offset: 0x16F4
+Table: DT_VGuiScreen, Prop: m_nPanelName, Offset: 0x16D0
+Table: DT_VGuiScreen, Prop: m_nAttachmentIndex, Offset: 0x16EC
+Table: DT_VGuiScreen, Prop: m_nOverlayMaterial, Offset: 0x16F0
+Table: DT_VGuiScreen, Prop: m_hPlayerOwner, Offset: 0x1760

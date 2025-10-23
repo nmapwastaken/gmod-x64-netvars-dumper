@@ -1,0 +1,2 @@
+Table: DT_PhysBox, Prop: m_mass, Offset: 0x16C0
+Table: DT_PhysBox, Prop: m_mass, Offset: 0x16C0

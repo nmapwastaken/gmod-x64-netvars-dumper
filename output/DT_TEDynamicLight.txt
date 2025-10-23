@@ -1,0 +1,8 @@
+Table: DT_TEDynamicLight, Prop: m_vecOrigin, Offset: 0x20
+Table: DT_TEDynamicLight, Prop: r, Offset: 0x30
+Table: DT_TEDynamicLight, Prop: g, Offset: 0x34
+Table: DT_TEDynamicLight, Prop: b, Offset: 0x38
+Table: DT_TEDynamicLight, Prop: exponent, Offset: 0x3C
+Table: DT_TEDynamicLight, Prop: m_fRadius, Offset: 0x2C
+Table: DT_TEDynamicLight, Prop: m_fTime, Offset: 0x40
+Table: DT_TEDynamicLight, Prop: m_fDecay, Offset: 0x44

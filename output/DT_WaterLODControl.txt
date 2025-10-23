@@ -1,0 +1,2 @@
+Table: DT_WaterLODControl, Prop: m_flCheapWaterStartDistance, Offset: 0x16C0
+Table: DT_WaterLODControl, Prop: m_flCheapWaterEndDistance, Offset: 0x16C4

@@ -1,0 +1,15 @@
+Table: DT_PropVehicleChoreoGeneric, Prop: m_hPlayer, Offset: 0x1C30
+Table: DT_PropVehicleChoreoGeneric, Prop: m_bEnterAnimOn, Offset: 0x1C38
+Table: DT_PropVehicleChoreoGeneric, Prop: m_bExitAnimOn, Offset: 0x1C39
+Table: DT_PropVehicleChoreoGeneric, Prop: m_bForceEyesToAttachment, Offset: 0x1C48
+Table: DT_PropVehicleChoreoGeneric, Prop: m_vecEyeExitEndpoint, Offset: 0x1C3C
+Table: DT_PropVehicleChoreoGeneric, Prop: m_vehicleView.bClampEyeAngles, Offset: 0x1CD8
+Table: DT_PropVehicleChoreoGeneric, Prop: m_vehicleView.flPitchCurveZero, Offset: 0x1CDC
+Table: DT_PropVehicleChoreoGeneric, Prop: m_vehicleView.flPitchCurveLinear, Offset: 0x1CE0
+Table: DT_PropVehicleChoreoGeneric, Prop: m_vehicleView.flRollCurveZero, Offset: 0x1CE4
+Table: DT_PropVehicleChoreoGeneric, Prop: m_vehicleView.flRollCurveLinear, Offset: 0x1CE8
+Table: DT_PropVehicleChoreoGeneric, Prop: m_vehicleView.flFOV, Offset: 0x1CEC
+Table: DT_PropVehicleChoreoGeneric, Prop: m_vehicleView.flYawMin, Offset: 0x1CF0
+Table: DT_PropVehicleChoreoGeneric, Prop: m_vehicleView.flYawMax, Offset: 0x1CF4
+Table: DT_PropVehicleChoreoGeneric, Prop: m_vehicleView.flPitchMin, Offset: 0x1CF8
+Table: DT_PropVehicleChoreoGeneric, Prop: m_vehicleView.flPitchMax, Offset: 0x1CFC

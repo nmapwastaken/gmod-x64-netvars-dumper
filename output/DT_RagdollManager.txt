@@ -1,0 +1,1 @@
+Table: DT_RagdollManager, Prop: m_iCurrentMaxRagdollCount, Offset: 0x16C0

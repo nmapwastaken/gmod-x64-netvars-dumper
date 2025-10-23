@@ -1,0 +1,9 @@
+Table: DT_Weapon_SLAM, Prop: m_tSlamState, Offset: 0x1CE8
+Table: DT_Weapon_SLAM, Prop: m_bDetonatorArmed, Offset: 0x1CEC
+Table: DT_Weapon_SLAM, Prop: m_bNeedDetonatorDraw, Offset: 0x1CED
+Table: DT_Weapon_SLAM, Prop: m_bNeedDetonatorHolster, Offset: 0x1CEE
+Table: DT_Weapon_SLAM, Prop: m_bNeedReload, Offset: 0x1CEF
+Table: DT_Weapon_SLAM, Prop: m_bClearReload, Offset: 0x1CF0
+Table: DT_Weapon_SLAM, Prop: m_bThrowSatchel, Offset: 0x1CF1
+Table: DT_Weapon_SLAM, Prop: m_bAttachSatchel, Offset: 0x1CF2
+Table: DT_Weapon_SLAM, Prop: m_bAttachTripmine, Offset: 0x1CF3

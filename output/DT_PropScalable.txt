@@ -1,0 +1,9 @@
+Table: DT_PropScalable, Prop: m_flScaleX, Offset: 0x1BF8
+Table: DT_PropScalable, Prop: m_flScaleY, Offset: 0x1BFC
+Table: DT_PropScalable, Prop: m_flScaleZ, Offset: 0x1C00
+Table: DT_PropScalable, Prop: m_flLerpTimeX, Offset: 0x1C04
+Table: DT_PropScalable, Prop: m_flLerpTimeY, Offset: 0x1C08
+Table: DT_PropScalable, Prop: m_flLerpTimeZ, Offset: 0x1C0C
+Table: DT_PropScalable, Prop: m_flGoalTimeX, Offset: 0x1C10
+Table: DT_PropScalable, Prop: m_flGoalTimeY, Offset: 0x1C14
+Table: DT_PropScalable, Prop: m_flGoalTimeZ, Offset: 0x1C18

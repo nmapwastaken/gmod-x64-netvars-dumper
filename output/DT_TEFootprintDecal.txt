@@ -1,0 +1,5 @@
+Table: DT_TEFootprintDecal, Prop: m_vecOrigin, Offset: 0x20
+Table: DT_TEFootprintDecal, Prop: m_vecDirection, Offset: 0x2C
+Table: DT_TEFootprintDecal, Prop: m_nEntity, Offset: 0x44
+Table: DT_TEFootprintDecal, Prop: m_nIndex, Offset: 0x48
+Table: DT_TEFootprintDecal, Prop: m_chMaterialType, Offset: 0x4C

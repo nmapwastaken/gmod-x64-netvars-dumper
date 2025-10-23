@@ -1,0 +1,2 @@
+Table: DT_PlasmaBeamNode, Prop: m_vecVelocity, Offset: 0x148
+Table: DT_PlasmaBeamNode, Prop: m_bSprayOn, Offset: 0x16C0

@@ -1,0 +1,3 @@
+Table: DT_TEPlayerDecal, Prop: m_vecOrigin, Offset: 0x24
+Table: DT_TEPlayerDecal, Prop: m_nEntity, Offset: 0x30
+Table: DT_TEPlayerDecal, Prop: m_nPlayer, Offset: 0x20

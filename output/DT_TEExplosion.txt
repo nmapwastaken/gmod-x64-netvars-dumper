@@ -1,0 +1,8 @@
+Table: DT_TEExplosion, Prop: m_nModelIndex, Offset: 0x30
+Table: DT_TEExplosion, Prop: m_fScale, Offset: 0x34
+Table: DT_TEExplosion, Prop: m_nFrameRate, Offset: 0x38
+Table: DT_TEExplosion, Prop: m_nFlags, Offset: 0x3C
+Table: DT_TEExplosion, Prop: m_vecNormal, Offset: 0x40
+Table: DT_TEExplosion, Prop: m_chMaterialType, Offset: 0x4C
+Table: DT_TEExplosion, Prop: m_nRadius, Offset: 0x50
+Table: DT_TEExplosion, Prop: m_nMagnitude, Offset: 0x54

@@ -1,0 +1,2 @@
+Table: DT_TELargeFunnel, Prop: m_nModelIndex, Offset: 0x30
+Table: DT_TELargeFunnel, Prop: m_nReversed, Offset: 0x34

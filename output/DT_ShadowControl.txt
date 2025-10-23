@@ -1,0 +1,5 @@
+Table: DT_ShadowControl, Prop: m_shadowDirection, Offset: 0x16C0
+Table: DT_ShadowControl, Prop: m_shadowColor, Offset: 0x16CC
+Table: DT_ShadowControl, Prop: m_flShadowMaxDist, Offset: 0x16D0
+Table: DT_ShadowControl, Prop: m_bDisableShadows, Offset: 0x16D4
+Table: DT_ShadowControl, Prop: m_bEnableLocalLightShadows, Offset: 0x16D5

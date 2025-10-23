@@ -1,0 +1,4 @@
+Table: DT_QuadraticBeam, Prop: m_targetPosition, Offset: 0x16C0
+Table: DT_QuadraticBeam, Prop: m_controlPosition, Offset: 0x16CC
+Table: DT_QuadraticBeam, Prop: m_scrollRate, Offset: 0x16D8
+Table: DT_QuadraticBeam, Prop: m_flWidth, Offset: 0x16DC

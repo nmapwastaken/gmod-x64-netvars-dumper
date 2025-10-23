@@ -1,0 +1,3 @@
+Table: DT_PhysicsProp, Prop: m_bAwake, Offset: 0x1BF8
+Table: DT_PhysicsProp, Prop: m_bAwake, Offset: 0x1BF8
+Table: DT_PhysicsProp, Prop: m_bAwake, Offset: 0x1BF8

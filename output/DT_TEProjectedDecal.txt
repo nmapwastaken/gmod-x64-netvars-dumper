@@ -1,0 +1,4 @@
+Table: DT_TEProjectedDecal, Prop: m_vecOrigin, Offset: 0x20
+Table: DT_TEProjectedDecal, Prop: m_angRotation, Offset: 0x2C
+Table: DT_TEProjectedDecal, Prop: m_flDistance, Offset: 0x38
+Table: DT_TEProjectedDecal, Prop: m_nIndex, Offset: 0x3C

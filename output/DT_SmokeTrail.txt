@@ -1,0 +1,15 @@
+Table: DT_SmokeTrail, Prop: m_SpawnRate, Offset: 0x17F8
+Table: DT_SmokeTrail, Prop: m_StartColor, Offset: 0x17FC
+Table: DT_SmokeTrail, Prop: m_EndColor, Offset: 0x1808
+Table: DT_SmokeTrail, Prop: m_ParticleLifetime, Offset: 0x1818
+Table: DT_SmokeTrail, Prop: m_StopEmitTime, Offset: 0x181C
+Table: DT_SmokeTrail, Prop: m_MinSpeed, Offset: 0x1820
+Table: DT_SmokeTrail, Prop: m_MaxSpeed, Offset: 0x1824
+Table: DT_SmokeTrail, Prop: m_MinDirectedSpeed, Offset: 0x1828
+Table: DT_SmokeTrail, Prop: m_MaxDirectedSpeed, Offset: 0x182C
+Table: DT_SmokeTrail, Prop: m_StartSize, Offset: 0x1830
+Table: DT_SmokeTrail, Prop: m_EndSize, Offset: 0x1834
+Table: DT_SmokeTrail, Prop: m_SpawnRadius, Offset: 0x1838
+Table: DT_SmokeTrail, Prop: m_bEmit, Offset: 0x1848
+Table: DT_SmokeTrail, Prop: m_nAttachment, Offset: 0x184C
+Table: DT_SmokeTrail, Prop: m_Opacity, Offset: 0x1814

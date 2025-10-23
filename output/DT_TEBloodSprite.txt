@@ -1,0 +1,9 @@
+Table: DT_TEBloodSprite, Prop: m_vecOrigin, Offset: 0x20
+Table: DT_TEBloodSprite, Prop: m_vecDirection, Offset: 0x2C
+Table: DT_TEBloodSprite, Prop: r, Offset: 0x38
+Table: DT_TEBloodSprite, Prop: g, Offset: 0x3C
+Table: DT_TEBloodSprite, Prop: b, Offset: 0x40
+Table: DT_TEBloodSprite, Prop: a, Offset: 0x44
+Table: DT_TEBloodSprite, Prop: m_nSprayModel, Offset: 0x4C
+Table: DT_TEBloodSprite, Prop: m_nDropModel, Offset: 0x48
+Table: DT_TEBloodSprite, Prop: m_nSize, Offset: 0x50

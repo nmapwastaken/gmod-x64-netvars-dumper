@@ -1,0 +1,2 @@
+Table: DT_WeaponBugBait, Prop: m_bRedraw, Offset: 0x1CE9
+Table: DT_WeaponBugBait, Prop: m_bDrawBackFinished, Offset: 0x1CE8

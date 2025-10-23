@@ -1,0 +1,2 @@
+Table: DT_TEBeamRing, Prop: m_nStartEntity, Offset: 0x60
+Table: DT_TEBeamRing, Prop: m_nEndEntity, Offset: 0x64

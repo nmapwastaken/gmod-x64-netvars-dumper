@@ -1,0 +1,2 @@
+Table: DT_SpotlightEnd, Prop: m_flLightScale, Offset: 0x16C0
+Table: DT_SpotlightEnd, Prop: m_Radius, Offset: 0x16C4

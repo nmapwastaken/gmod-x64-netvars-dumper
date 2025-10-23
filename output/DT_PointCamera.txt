@@ -1,0 +1,12 @@
+Table: DT_PointCamera, Prop: m_FOV, Offset: 0x16C0
+Table: DT_PointCamera, Prop: m_Resolution, Offset: 0x16C4
+Table: DT_PointCamera, Prop: m_bFogEnable, Offset: 0x16C8
+Table: DT_PointCamera, Prop: m_FogColor, Offset: 0x16C9
+Table: DT_PointCamera, Prop: m_FogColorHDR, Offset: 0x16CD
+Table: DT_PointCamera, Prop: m_flFogStart, Offset: 0x16D4
+Table: DT_PointCamera, Prop: m_flFogEnd, Offset: 0x16D8
+Table: DT_PointCamera, Prop: m_flFogMaxDensity, Offset: 0x16DC
+Table: DT_PointCamera, Prop: m_bFogRadial, Offset: 0x16E0
+Table: DT_PointCamera, Prop: m_bActive, Offset: 0x16E1
+Table: DT_PointCamera, Prop: m_bUseScreenAspectRatio, Offset: 0x16E2
+Table: DT_PointCamera, Prop: m_bGlobalOverride, Offset: 0x16E3

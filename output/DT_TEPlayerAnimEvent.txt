@@ -1,0 +1,3 @@
+Table: DT_TEPlayerAnimEvent, Prop: m_hPlayer, Offset: 0x20
+Table: DT_TEPlayerAnimEvent, Prop: m_iEvent, Offset: 0x24
+Table: DT_TEPlayerAnimEvent, Prop: m_nData, Offset: 0x28

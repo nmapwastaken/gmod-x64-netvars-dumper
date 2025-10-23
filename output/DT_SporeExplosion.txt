@@ -1,0 +1,7 @@
+Table: DT_SporeExplosion, Prop: m_flSpawnRate, Offset: 0x17F8
+Table: DT_SporeExplosion, Prop: m_flParticleLifetime, Offset: 0x17FC
+Table: DT_SporeExplosion, Prop: m_flStartSize, Offset: 0x1800
+Table: DT_SporeExplosion, Prop: m_flEndSize, Offset: 0x1804
+Table: DT_SporeExplosion, Prop: m_flSpawnRadius, Offset: 0x1808
+Table: DT_SporeExplosion, Prop: m_bEmit, Offset: 0x1810
+Table: DT_SporeExplosion, Prop: m_bDontRemove, Offset: 0x1811

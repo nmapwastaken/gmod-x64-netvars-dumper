@@ -1,0 +1,4 @@
+Table: DT_PhysBeam, Prop: m_hTargetEnt, Offset: 0x16F0
+Table: DT_PhysBeam, Prop: m_HoldPos, Offset: 0x16E4
+Table: DT_PhysBeam, Prop: m_bIsOn, Offset: 0x16F4
+Table: DT_PhysBeam, Prop: m_iPhysBone, Offset: 0x16E0

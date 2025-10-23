@@ -1,0 +1,6 @@
+Table: DT_Team, Prop: m_iTeamNum, Offset: 0x1714
+Table: DT_Team, Prop: m_iScore, Offset: 0x1700
+Table: DT_Team, Prop: m_iRoundsWon, Offset: 0x1704
+Table: DT_Team, Prop: m_szTeamname, Offset: 0x16E0
+Table: DT_Team, Prop: player_array_element, Offset: 0x0
+Table: DT_Team, Prop: "player_array", Offset: 0x0

@@ -1,0 +1,7 @@
+Table: DT_SporeTrail, Prop: m_flSpawnRate, Offset: 0x17FC
+Table: DT_SporeTrail, Prop: m_vecEndColor, Offset: 0x17F0
+Table: DT_SporeTrail, Prop: m_flParticleLifetime, Offset: 0x1800
+Table: DT_SporeTrail, Prop: m_flStartSize, Offset: 0x1804
+Table: DT_SporeTrail, Prop: m_flEndSize, Offset: 0x1808
+Table: DT_SporeTrail, Prop: m_flSpawnRadius, Offset: 0x180C
+Table: DT_SporeTrail, Prop: m_bEmit, Offset: 0x181C

@@ -1,0 +1,5 @@
+Table: DT_ScriptedEntity, Prop: m_ScriptedEntity.m_strScriptName, Offset: 0x2980
+Table: DT_ScriptedEntity, Prop: m_ScriptedEntity.m_strScriptName, Offset: 0x1D00
+Table: DT_ScriptedEntity, Prop: m_ScriptedEntity.m_strScriptName, Offset: 0x16D8
+Table: DT_ScriptedEntity, Prop: m_ScriptedEntity.m_strScriptName, Offset: 0x1C98
+Table: DT_ScriptedEntity, Prop: m_ScriptedEntity.m_strScriptName, Offset: 0x2980

@@ -1,0 +1,11 @@
+Table: DT_TEPhysicsProp, Prop: m_vecOrigin, Offset: 0x20
+Table: DT_TEPhysicsProp, Prop: m_angRotation[0], Offset: 0x2C
+Table: DT_TEPhysicsProp, Prop: m_angRotation[1], Offset: 0x30
+Table: DT_TEPhysicsProp, Prop: m_angRotation[2], Offset: 0x34
+Table: DT_TEPhysicsProp, Prop: m_vecVelocity, Offset: 0x38
+Table: DT_TEPhysicsProp, Prop: m_nModelIndex, Offset: 0x44
+Table: DT_TEPhysicsProp, Prop: m_nFlags, Offset: 0x4C
+Table: DT_TEPhysicsProp, Prop: m_nSkin, Offset: 0x48
+Table: DT_TEPhysicsProp, Prop: m_nEffects, Offset: 0x50
+Table: DT_TEPhysicsProp, Prop: m_clrRender, Offset: 0x54
+Table: DT_TEPhysicsProp, Prop: m_fModelScale, Offset: 0x58

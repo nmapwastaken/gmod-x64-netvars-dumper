@@ -1,0 +1,9 @@
+Table: DT_PoseController, Prop: m_bPoseValueParity, Offset: 0x16D4
+Table: DT_PoseController, Prop: m_fPoseValue, Offset: 0x16D8
+Table: DT_PoseController, Prop: m_fInterpolationTime, Offset: 0x16DC
+Table: DT_PoseController, Prop: m_bInterpolationWrap, Offset: 0x16E0
+Table: DT_PoseController, Prop: m_fCycleFrequency, Offset: 0x16E4
+Table: DT_PoseController, Prop: m_nFModType, Offset: 0x16E8
+Table: DT_PoseController, Prop: m_fFModTimeOffset, Offset: 0x16EC
+Table: DT_PoseController, Prop: m_fFModRate, Offset: 0x16F0
+Table: DT_PoseController, Prop: m_fFModAmplitude, Offset: 0x16F4

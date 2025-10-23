@@ -1,0 +1,4 @@
+Table: DT_RollerMine, Prop: m_bIsOpen, Offset: 0x2968
+Table: DT_RollerMine, Prop: m_flActiveTime, Offset: 0x296C
+Table: DT_RollerMine, Prop: m_bHackedByAlyx, Offset: 0x2970
+Table: DT_RollerMine, Prop: m_bPowerDown, Offset: 0x2971

@@ -1,0 +1,4 @@
+Table: DT_TEImpact, Prop: m_vecOrigin, Offset: 0x20
+Table: DT_TEImpact, Prop: m_vecNormal, Offset: 0x2C
+Table: DT_TEImpact, Prop: m_iType, Offset: 0x38
+Table: DT_TEImpact, Prop: m_ucFlags, Offset: 0x3C

@@ -1,0 +1,4 @@
+Table: DT_TEMetalSparks, Prop: m_vecPos, Offset: 0x20
+Table: DT_TEMetalSparks, Prop: m_vecDir, Offset: 0x2C
+Table: DT_TEMetalSparks, Prop: m_vecPos, Offset: 0x20
+Table: DT_TEMetalSparks, Prop: m_vecDir, Offset: 0x2C

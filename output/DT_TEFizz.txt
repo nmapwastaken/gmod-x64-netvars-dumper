@@ -1,0 +1,4 @@
+Table: DT_TEFizz, Prop: m_nEntity, Offset: 0x20
+Table: DT_TEFizz, Prop: m_nModelIndex, Offset: 0x24
+Table: DT_TEFizz, Prop: m_nDensity, Offset: 0x28
+Table: DT_TEFizz, Prop: m_nCurrent, Offset: 0x2C

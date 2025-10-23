@@ -1,0 +1,4 @@
+Table: DT_Ragdoll_Attached, Prop: m_boneIndexAttached, Offset: 0x2060
+Table: DT_Ragdoll_Attached, Prop: m_ragdollAttachedObjectIndex, Offset: 0x205C
+Table: DT_Ragdoll_Attached, Prop: m_attachmentPointBoneSpace, Offset: 0x2038
+Table: DT_Ragdoll_Attached, Prop: m_attachmentPointRagdollSpace, Offset: 0x2050

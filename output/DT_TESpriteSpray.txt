@@ -1,0 +1,6 @@
+Table: DT_TESpriteSpray, Prop: m_vecOrigin, Offset: 0x20
+Table: DT_TESpriteSpray, Prop: m_vecDirection, Offset: 0x2C
+Table: DT_TESpriteSpray, Prop: m_nModelIndex, Offset: 0x38
+Table: DT_TESpriteSpray, Prop: m_fNoise, Offset: 0x40
+Table: DT_TESpriteSpray, Prop: m_nCount, Offset: 0x44
+Table: DT_TESpriteSpray, Prop: m_nSpeed, Offset: 0x3C

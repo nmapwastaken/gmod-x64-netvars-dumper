@@ -1,0 +1,4 @@
+Table: DT_PhysicsPropMultiplayer, Prop: m_iPhysicsMode, Offset: 0x1C08
+Table: DT_PhysicsPropMultiplayer, Prop: m_fMass, Offset: 0x1C0C
+Table: DT_PhysicsPropMultiplayer, Prop: m_collisionMins, Offset: 0x1C10
+Table: DT_PhysicsPropMultiplayer, Prop: m_collisionMaxs, Offset: 0x1C1C

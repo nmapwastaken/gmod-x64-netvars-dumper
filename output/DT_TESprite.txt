@@ -1,0 +1,4 @@
+Table: DT_TESprite, Prop: m_vecOrigin, Offset: 0x20
+Table: DT_TESprite, Prop: m_nModelIndex, Offset: 0x2C
+Table: DT_TESprite, Prop: m_fScale, Offset: 0x30
+Table: DT_TESprite, Prop: m_nBrightness, Offset: 0x34

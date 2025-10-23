@@ -1,0 +1,5 @@
+Table: DT_Precipitation, Prop: m_nPrecipType, Offset: 0x16EC
+Table: DT_Precipitation, Prop: m_sParticleNameClose, Offset: 0x17DA
+Table: DT_Precipitation, Prop: m_sParticleNameInner, Offset: 0x185A
+Table: DT_Precipitation, Prop: m_sParticleNameOuter, Offset: 0x18DA
+Table: DT_Precipitation, Prop: m_flParticleDist, Offset: 0x195C

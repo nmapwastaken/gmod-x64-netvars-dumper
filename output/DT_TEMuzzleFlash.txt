@@ -1,0 +1,4 @@
+Table: DT_TEMuzzleFlash, Prop: m_vecOrigin, Offset: 0x20
+Table: DT_TEMuzzleFlash, Prop: m_vecAngles, Offset: 0x2C
+Table: DT_TEMuzzleFlash, Prop: m_flScale, Offset: 0x38
+Table: DT_TEMuzzleFlash, Prop: m_nType, Offset: 0x3C

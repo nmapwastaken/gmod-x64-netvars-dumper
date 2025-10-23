@@ -1,0 +1,3 @@
+Table: DT_TEAntlionDust, Prop: m_vecOrigin, Offset: 0x38
+Table: DT_TEAntlionDust, Prop: m_vecAngles, Offset: 0x44
+Table: DT_TEAntlionDust, Prop: m_bBlockedSpawner, Offset: 0x50

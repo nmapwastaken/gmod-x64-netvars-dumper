@@ -1,0 +1,2 @@
+Table: DT_TEBeamPoints, Prop: m_vecStartPoint, Offset: 0x60
+Table: DT_TEBeamPoints, Prop: m_vecEndPoint, Offset: 0x6C

@@ -1,0 +1,12 @@
+Table: DT_TEHL2MPFireBullets, Prop: m_vecOrigin, Offset: 0x24
+Table: DT_TEHL2MPFireBullets, Prop: m_vecDir, Offset: 0x30
+Table: DT_TEHL2MPFireBullets, Prop: m_iAmmoID, Offset: 0x3C
+Table: DT_TEHL2MPFireBullets, Prop: m_iSeed, Offset: 0x44
+Table: DT_TEHL2MPFireBullets, Prop: m_iShots, Offset: 0x4C
+Table: DT_TEHL2MPFireBullets, Prop: m_iPlayer, Offset: 0x20
+Table: DT_TEHL2MPFireBullets, Prop: m_iWeaponIndex, Offset: 0x40
+Table: DT_TEHL2MPFireBullets, Prop: m_flSpread, Offset: 0x48
+Table: DT_TEHL2MPFireBullets, Prop: m_bDoImpacts, Offset: 0x50
+Table: DT_TEHL2MPFireBullets, Prop: m_bDoTracers, Offset: 0x51
+Table: DT_TEHL2MPFireBullets, Prop: m_TracerType, Offset: 0x58
+Table: DT_TEHL2MPFireBullets, Prop: m_flSpreadY, Offset: 0x54

@@ -1,0 +1,8 @@
+Table: DT_PointWorldText, Prop: m_szText, Offset: 0x16FA
+Table: DT_PointWorldText, Prop: m_colTextColor, Offset: 0x180C
+Table: DT_PointWorldText, Prop: m_flTextSize, Offset: 0x1800
+Table: DT_PointWorldText, Prop: m_flTextSpacingX, Offset: 0x1804
+Table: DT_PointWorldText, Prop: m_flTextSpacingY, Offset: 0x1808
+Table: DT_PointWorldText, Prop: m_nOrientation, Offset: 0x1810
+Table: DT_PointWorldText, Prop: m_bRainbow, Offset: 0x16F8
+Table: DT_PointWorldText, Prop: m_bTextEnabled, Offset: 0x16F9

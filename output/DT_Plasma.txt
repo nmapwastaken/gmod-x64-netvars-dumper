@@ -1,0 +1,7 @@
+Table: DT_Plasma, Prop: m_flStartScale, Offset: 0x16C0
+Table: DT_Plasma, Prop: m_flScale, Offset: 0x16C4
+Table: DT_Plasma, Prop: m_flScaleTime, Offset: 0x16C8
+Table: DT_Plasma, Prop: m_nFlags, Offset: 0x16CC
+Table: DT_Plasma, Prop: m_nPlasmaModelIndex, Offset: 0x16D0
+Table: DT_Plasma, Prop: m_nPlasmaModelIndex2, Offset: 0x16D4
+Table: DT_Plasma, Prop: m_nGlowModelIndex, Offset: 0x16D8

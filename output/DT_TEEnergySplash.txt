@@ -1,0 +1,3 @@
+Table: DT_TEEnergySplash, Prop: m_vecPos, Offset: 0x20
+Table: DT_TEEnergySplash, Prop: m_vecDir, Offset: 0x2C
+Table: DT_TEEnergySplash, Prop: m_bExplosive, Offset: 0x38

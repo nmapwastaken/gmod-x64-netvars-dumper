@@ -1,0 +1,2 @@
+Table: DT_TEGaussExplosion, Prop: m_nType, Offset: 0x30
+Table: DT_TEGaussExplosion, Prop: m_vecDirection, Offset: 0x34
